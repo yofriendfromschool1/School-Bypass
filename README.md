@@ -48,7 +48,7 @@ Other:
   https://github.com/2emk7/2emk7.github.io
   https://2emk7.github.io/
   https://piped.video (yt unblock)
-  Hold F2 or F12 or DEL or wtv ur computers bios is and if its locked: https://www.biosbug.com/ or https://www.youtube.com/watch?v=EP_Bg3UIVOw and disable secure boot (if needed) and create new pass and use a Bootable USB (preferably (Tails)[https://tails.net/install/index.en.html]) and boot off the USB
+  Hold F2 or F12 or DEL or wtv ur computers bios is and if its locked: https://www.biosbug.com/ or https://www.youtube.com/watch?v=EP_Bg3UIVOw and disable secure boot (if needed) and create new pass and use a Bootable USB (preferably [Tails](https://tails.net/install/index.en.html) ) and boot off the USB
   when searching for something and certain search results are blocked just put for example:
 CroxyProxy -> Blocked
 Cr0xyPr0xy -> Not Blocked
