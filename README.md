@@ -1,6 +1,6 @@
 # School-Bypass
 Webproxies, Blocker bypasses, etc.
-Some free webproxies:
+Some free/paid webproxies:
   Surfdoge: https://surfdoge.pro/ (src: https://github.com/DogeNetwork/v4)
   CroxyProxy: https://www.croxyproxy.com/
   CoProxy: https://coproxy.io/free-web-proxy/
@@ -8,6 +8,7 @@ Some free webproxies:
   ProxySite: https://www.proxysite.com/
   Proxyium: https://proxyium.com/
   PlainProxies: https://plainproxies.com/resources/free-web-proxy
+  Holy Unblocker: https://holyubofficial.net
 Sites.google.com:
   https://sites.google.com/view/wolfunblock/home
   https://sites.google.com/view/exploitsnstuff/home
@@ -53,4 +54,8 @@ Other:
 CroxyProxy -> Blocked
 Cr0xyPr0xy -> Not Blocked
   Just do that and if it asks for "Did you mean? (better result prob here)" just click yeah if u want and it wont get blocked.
+  Use a VPN (preferably Cloudflare Warp or ProtonVPN)
+  use browser extension vpns
+  Use your phone hotspot or a different connection then the school or a pi-hole router or a router that blocks the schools/montioring software ips.
+  
   
