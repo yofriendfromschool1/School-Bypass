@@ -9,6 +9,24 @@ Some free/paid webproxies:
   Proxyium: https://proxyium.com/
   PlainProxies: https://plainproxies.com/resources/free-web-proxy
   Holy Unblocker: https://holyubofficial.net
+  Incognito: https://incog.works/
+  Alu: https://aluu.xyz/en/
+  Definitely Science: https://definitelyscience.com/apps/ (limited)
+  Radon Games: https://radon.games/proxy
+  Kazwire: https://kazwire.com/
+Set up your own proxy:
+  https://github.com/SevenworksDev/tProxy
+  https://sites.google.com/view/universalunblocking/unblxckers/make-your-own-pr0xy
+  https://sites.google.com/view/exploitsnstuff/unblockers/make-your-own-proxy
+  https://www.youtube.com/watch?v=SFSmS9b22bg
+  https://titaniumnetwork.org/
+Virtual Machines:
+  AnuraOS: https://anura.pro/
+  CloudVM: https://webvm.replit.app/
+  Virtual x86: https://copy.sh/v86/
+  Neverinstall: https://neverinstall.com/
+  
+  
 Sites.google.com:
   https://sites.google.com/view/wolfunblock/home
   https://sites.google.com/view/exploitsnstuff/home
@@ -27,11 +45,6 @@ Linewize/FamilyZone:
   https://github.com/sh495/Hackwize
 Mdm bypass for school iPads:
   https://github.com/molangning/bypass
-Set up your own proxy:
-  https://github.com/SevenworksDev/tProxy
-  https://sites.google.com/view/universalunblocking/unblxckers/make-your-own-pr0xy
-  https://sites.google.com/view/exploitsnstuff/unblockers/make-your-own-proxy
-  https://www.youtube.com/watch?v=SFSmS9b22bg
 ChromeOS/Chromebooks:
   https://github.com/Vortron-rd/T-Crack
   https://vortron-rd.github.io/T-Crack/
