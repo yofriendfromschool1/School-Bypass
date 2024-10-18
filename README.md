@@ -14,6 +14,7 @@ Some free/paid webproxies:
   Definitely Science: https://definitelyscience.com/apps/ (limited)
   Radon Games: https://radon.games/proxy
   Kazwire: https://kazwire.com/
+  Browser.lol: https://browser.lol
 Set up your own proxy:
   https://github.com/SevenworksDev/tProxy
   https://sites.google.com/view/universalunblocking/unblxckers/make-your-own-pr0xy
