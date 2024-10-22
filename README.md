@@ -26,6 +26,7 @@ Virtual Machines:
   CloudVM: https://webvm.replit.app/
   Virtual x86: https://copy.sh/v86/
   Neverinstall: https://neverinstall.com/
+  Triage: https://tria.ge/
 Sites.google.com:
   https://sites.google.com/view/wolfunblock/home
   https://sites.google.com/view/exploitsnstuff/home
