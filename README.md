@@ -10,13 +10,14 @@ Some free/paid webproxies:
   Proxyshare: 
       https://www.proxyshare.com/free-proxy/
   PlainProxies: https://plainproxies.com/resources/free-web-proxy
-  Holy Unblocker: https://holyubofficial.net
+  Holy Unblocker: https://holyubofficial.net or https://holyunblocker.org/
   Incognito: https://incog.works/
   Alu: https://aluu.xyz/en/
   Definitely Science: https://definitelyscience.com/apps/ (limited)
   Radon Games: https://radon.games/proxy
   Kazwire: https://kazwire.com/
   Browser.lol: https://browser.lol
+  
 Set up your own proxy:
   https://github.com/SevenworksDev/tProxy
   https://sites.google.com/view/universalunblocking/unblxckers/make-your-own-pr0xy
