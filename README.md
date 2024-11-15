@@ -7,6 +7,7 @@ Some free/paid webproxies:
   WebOProxy: https://weboproxy.com/
   ProxySite: https://www.proxysite.com/
   Proxyium: https://proxyium.com/
+  Interstellar: https://funerals.stofcheck-ballinger.com
   Proxyshare: 
       https://www.proxyshare.com/free-proxy/
   PlainProxies: https://plainproxies.com/resources/free-web-proxy
