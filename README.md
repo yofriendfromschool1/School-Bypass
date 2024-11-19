@@ -11,6 +11,7 @@ Some free/paid webproxies:
   Proxyshare: 
       https://www.proxyshare.com/free-proxy/
   PlainProxies: https://plainproxies.com/resources/free-web-proxy
+  Galaxy Hub: https://galaxyhub.my.canva.site
   Holy Unblocker: https://holyubofficial.net or https://holyunblocker.org/
   Incognito: https://incog.works/
   Alu: https://aluu.xyz/en/
