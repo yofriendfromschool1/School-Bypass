@@ -9,6 +9,10 @@ Some free/paid webproxies:
   ProxySite: https://www.proxysite.com/
   Proxyium: https://proxyium.com/
   Interstellar: https://funerals.stofcheck-ballinger.com
+  https://github.com/Snipperrazer/Trying-to-unblock-school-websites
+  https://github.com/TacoGuy21/ByeBlocker
+  https://github.com/TacoGuy21/Greatsword-V3
+  https://github.com/TacoGuy21/Slate
   Proxyshare: 
       https://www.proxyshare.com/free-proxy/
   PlainProxies: https://plainproxies.com/resources/free-web-proxy
@@ -20,7 +24,7 @@ Some free/paid webproxies:
   Radon Games: https://radon.games/proxy
   Kazwire: https://kazwire.com/
   Browser.lol: https://browser.lol
-  
+  https://github.com/wea-f/ByePassHub
 Set up your own proxy:
   https://github.com/SevenworksDev/tProxy
   https://sites.google.com/view/universalunblocking/unblxckers/make-your-own-pr0xy
@@ -49,6 +53,10 @@ Linewize/FamilyZone:
   https://github.com/Fl1pSyde/Linewize-Killer
   https://ltbeef.netlify.app/
   https://github.com/sh495/Hackwize
+
+Cisco Umbrella Bypass:
+https://github.com/plinioseniore/cisco-umbrella-bypass
+
 Mdm bypass for school iPads:
   https://github.com/molangning/bypass
 ChromeOS/Chromebooks:
@@ -57,6 +65,26 @@ ChromeOS/Chromebooks:
   https://www.saveourschools-march.com/how-to-disable-linewize-on-school-chromebook/ (scroll down til you reset chromebook)
   https://github.com/3kh0/ext-remover
   https://3kh0.github.io/ext-remover/
+  https://github.com/AdroitJackson/Blobbypass
+  https://github.com/Blobby-Boi/Blobwifi
+  https://github.com/sloange/ExploitHardest
+  https://github.com/masonscped/unrestrict
+  https://github.com/chromebook-hacking
+  https://cb.whale.x10.mx/
+  https://github.com/joetrain2/devtools
+  https://github.com/Blobby-Boi/ExtPrint3r
+  https://github.com/Blobby-Boi/LightSPED-Killer-Agent
+  https://github.com/Snipperrazer/TheBedroom
+  https://github.com/bobombobo/browser-bypasses
+  https://github.com/AshtonDavies/LoMoH
+  https://github.com/AshtonDavies/LTMEAT-Web
+  https://github.com/S-PScripts/chromebook-utilities
+  https://github.com/S-PScripts/ee-exploit
+  https://github.com/S-PScripts/locked-mode-x
+  https://github.com/jun-ro/Chromebook-VM
+  https://github.com/MercuryWorkshop/sh1mmer
+  https://github.com/Agguiopz/Priv
+  
 Windows:
   https://github.com/0xShaolin/CMD_Bypass
   https://github.com/v78641440/LinewizeRemoval (just remove the software that montiors your computer)
@@ -68,7 +96,7 @@ Other:
   https://github.com/2emk7/2emk7.github.io
   https://2emk7.github.io/
   https://piped.video (yt unblock)
-  Hold F2 or F12 or DEL or wtv ur computers bios is and if its locked: https://www.biosbug.com/ or https://www.youtube.com/watch?v=EP_Bg3UIVOw and disable secure boot (if needed) and create new pass and use a Bootable USB (preferably [Tails](https://tails.net/install/index.en.html) ) and boot off the USB
+  Hold F2 or F12 or DEL or wtv ur computers bios is and if its locked: https://www.biosbug.com/ or https://bios-pw.org or https://www.youtube.com/watch?v=EP_Bg3UIVOw and disable secure boot (if needed) and create new pass and use a Bootable USB (preferably [Tails](https://tails.net/install/index.en.html) ) and boot off the USB
   when searching for something and certain search results are blocked just put for example:
 CroxyProxy -> Blocked
 Cr0xyPr0xy -> Not Blocked
@@ -81,7 +109,7 @@ admin bypass:
   https://github.com/SirDank/ez-admin
 
 Tips:
-If you resetted your pc then install everything back that orginally was on the device (if it was paid software then just use https://thepiratebay.org or some SAFE pirating place and a good torrent is [QBitTorrent](https://www.qbittorrent.org/) and always torrent over vpn) and make it look like if your device was never reset and log back in to everything, dont be unique, blend in. Also if your on windows 10 always clean up reguarly using [BleachBit](https://www.bleachbit.org/) and Disk Cleanup and [RevoUninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/). Also when you need to return your device (if you graduate or over the summer) reset the device and make it look normal again with everything installed on it but don't login to anything. If they ask any questions about it being reset just say it was like that since you got it and always deny, but if it gets legal dont talk, ask for a lawyer. (highly doubt that they'll go this far) Don't get caught doing anything your not supposed to be doing and when your on the schools wifi use a VPN. (Cloudflare Warp or ProtonVPN or Anonsurf (tor) prefered) Don't tell anyone or post that your pc is reset and dont be flexing and dont tie your schools life to your personal/social life, example: Logging into your socials on the unblocked device.
+If you resetted your pc then install everything back that orginally was on the device (if it was paid software then just use https://thepiratebay.org, https://1337x.to or some SAFE pirating place and a good torrent is [QBitTorrent](https://www.qbittorrent.org/) and always torrent over vpn) and make it look like if your device was never reset and log back in to everything, dont be unique, blend in. Also if your on windows 10 always clean up reguarly using [BleachBit](https://www.bleachbit.org/) and Disk Cleanup and [RevoUninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/). Also when you need to return your device (if you graduate or over the summer) reset the device and make it look normal again with everything installed on it but don't login to anything. If they ask any questions about it being reset just say it was like that since you got it and always deny, but if it gets legal dont talk, ask for a lawyer. (highly doubt that they'll go this far) Don't get caught doing anything your not supposed to be doing and when your on the schools wifi use a VPN. (Cloudflare Warp or ProtonVPN or Anonsurf (tor) prefered or ) Don't tell anyone or post that your pc is reset and dont be flexing and dont tie your schools life to your personal/social life, example: Logging into your socials on the unblocked device.
 
 WARNING:
 YOU CAN AND MAY GET Suspended, Expelled, Fined, or into legal trouble. IF YOU DO IT IS NOT ON ME PLEASE READ UP ON YOUR SCHOOLS POLICY WITH YOUR DEVICE.
