@@ -62,6 +62,7 @@ Mdm bypass for school iPads:
   https://github.com/molangning/bypass
 ChromeOS/Chromebooks:
   https://github.com/Vortron-rd/T-Crack
+  https://github.com/drixpyyy/school-Chromebook-bible
   https://vortron-rd.github.io/T-Crack/
   https://www.saveourschools-march.com/how-to-disable-linewize-on-school-chromebook/ (scroll down til you reset chromebook)
   https://github.com/3kh0/ext-remover
