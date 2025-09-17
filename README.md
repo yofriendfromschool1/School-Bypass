@@ -13,6 +13,7 @@ Some free/paid webproxies:
   https://github.com/TacoGuy21/ByeBlocker
   https://github.com/TacoGuy21/Greatsword-V3
   https://github.com/TacoGuy21/Slate
+  https://www.tiktok.com/t/ZP8S5tADy/
   https://www.tiktok.com/t/ZP8SDrvGw/
   Proxyshare: 
       https://www.proxyshare.com/free-proxy/
