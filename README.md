@@ -15,6 +15,7 @@ Some free/paid webproxies:
   https://github.com/TacoGuy21/Slate
   https://www.tiktok.com/t/ZP8S5tADy/
   https://www.tiktok.com/t/ZP8SDrvGw/
+  @w: Download khan accademy on ur chromebook if they have it sign in with apple press the apple button search google on the search bar go to app support press the 3 lines press google search and you have unblocked google muliplayer games dont work
   Proxyshare: 
       https://www.proxyshare.com/free-proxy/
   PlainProxies: https://plainproxies.com/resources/free-web-proxy
