@@ -14,6 +14,7 @@ Some free/paid webproxies:
   https://github.com/TacoGuy21/Greatsword-V3
   https://github.com/TacoGuy21/Slate
   https://www.tiktok.com/t/ZP8S5tADy/
+  https://github.com/testwaree/MyFileURLS
   https://www.tiktok.com/t/ZP8SDrvGw/
   @w: Download khan accademy on ur chromebook if they have it sign in with apple press the apple button search google on the search bar go to app support press the 3 lines press google search and you have unblocked google muliplayer games dont work
   Proxyshare: 
@@ -28,12 +29,16 @@ Some free/paid webproxies:
   Kazwire: https://kazwire.com/
   Browser.lol: https://browser.lol
   https://github.com/wea-f/ByePassHub
+  https://github.com/FritzCohen/LumiOS
+  https://github.com/red-stone-network/clockwork
 Set up your own proxy:
   https://github.com/SevenworksDev/tProxy
   https://sites.google.com/view/universalunblocking/unblxckers/make-your-own-pr0xy
   https://sites.google.com/view/exploitsnstuff/unblockers/make-your-own-proxy
   https://www.youtube.com/watch?v=SFSmS9b22bg
   https://titaniumnetwork.org/
+  https://github.com/Degen-dev/Degeneracy
+  https://github.com/STPv22/Dextensify
 Virtual Machines:
   AnuraOS: https://anura.pro/
   CloudVM: https://webvm.replit.app/
@@ -48,17 +53,65 @@ GoGuardian Bypasses:
   https://gogaurdianbypass.vercel.app/ Src: https://github.com/AroriaNetwork/GoGuardian-Bypass
   https://github.com/yeeterlol/AboutBlankSpoofer
   https://github.com/Marc8019/bookmarklets
-Securely:
+  https://github.com/thegreatestgiant/cdn
+  https://github.com/ORryz/school-bypasses
+  https://github.com/red-stone-network/bypass-central
+Securly:
   https://github.com/Marc8019/bookmarklets
+  https://github.com/NoahPalmer851/ISB-Securly-Classroom-Disabler
+  https://github.com/thegreatestgiant/cdn
+  https://github.com/ORryz/school-bypasses
 Linewize/FamilyZone:
   https://github.com/v78641440/LinewizeRemoval
   https://www.saveourschools-march.com/how-to-disable-linewize-on-school-chromebook/
   https://github.com/Fl1pSyde/Linewize-Killer
   https://ltbeef.netlify.app/
   https://github.com/sh495/Hackwize
+  https://github.com/thegreatestgiant/cdn
+Dyknow:
+  https://github.com/Trickshotblaster/Dy-Nope
+  https://github.com/itzCozi/DyNoir
+  https://github.com/hashtagbruhmoment1/DyknowDisabler
+  https://github.com/ThatCoolDev/DyknowDisabler
+  https://github.com/r8btx/Dyknow-Disabler
+  https://github.com/eschan145/DieKnow
+  https://github.com/NoMod-Programming/DyKnow-Bypass
+  https://github.com/thegreatestgiant/cdn
+iBoss:
+  https://github.com/thegreatestgiant/cdn
+  https://github.com/Therock17000/Ibossbad
+  https://github.com/SpaceSaver/Ingot-for-iBoss
+  https://github.com/ORryz/school-bypasses
+Gopher Buddy:
+  https://github.com/thegreatestgiant/cdn
+  https://github.com/nekbytes/Gopher-Buddy-Blocker
 
-Cisco Umbrella Bypass:
+Fortiguard / Fortinet:
+https://github.com/thegreatestgiant/cdn
+
+LanSchool/Air:
+  https://github.com/thegreatestgiant/cdn
+  https://github.com/AfterSpencer/LanSchool_Student_Removal
+  https://github.com/ThatAquarel/SmurfUltimate
+  https://github.com/sqz269/AntiLanSchool
+  https://github.com/VapeQueen/lanschool-web-bypass
+  https://github.com/ChickenHacker12/lanschool-web-bypass
+  https://github.com/asteroidsigma/Air-Flopperv2
+  https://github.com/darkvoid3946/LSBV1
+  https://github.com/iwannet/LanschoolBlocker
+
+Lightspeed:
+  https://github.com/Maxisgod20/LightSpeed-Bypass-Engine
+  https://github.com/krosis2706/Speed-Of-Dark
+  https://github.com/kolts6gamerYT/LIGHTSPEED-FILTER-AGENT-DISABLER
+  https://github.com/sarmadjabri/Lightspeed
+  https://github.com/devel60/bypass-schoolfilter
+  https://github.com/acicero93/schoolsucks
+  https://github.com/red-stone-network/bypass-central
+
+Cisco Umbrella Bypass and content keeper:
 https://github.com/plinioseniore/cisco-umbrella-bypass
+https://github.com/thegreatestgiant/cdn
 
 Mdm bypass for school iPads:
   https://github.com/molangning/bypass
