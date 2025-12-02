@@ -7,6 +7,7 @@ Some free/paid webproxies:
   CoProxy: https://coproxy.io/free-web-proxy/
   WebOProxy: https://weboproxy.com/
   ProxySite: https://www.proxysite.com/
+  ProxyOrb: https://proxyorb.com/
   Proxyium: https://proxyium.com/
   Interstellar: https://funerals.stofcheck-ballinger.com
   https://github.com/Snipperrazer/Trying-to-unblock-school-websites
