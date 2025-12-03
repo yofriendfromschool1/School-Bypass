@@ -11,6 +11,7 @@ Some free/paid webproxies:
   Interstellar: https://funerals.stofcheck-ballinger.com
   https://github.com/Snipperrazer/Trying-to-unblock-school-websites
   https://github.com/TacoGuy21/ByeBlocker
+  https://proxyorb.com
   https://github.com/TacoGuy21/Greatsword-V3
   https://github.com/TacoGuy21/Slate
   https://www.tiktok.com/t/ZP8S5tADy/
