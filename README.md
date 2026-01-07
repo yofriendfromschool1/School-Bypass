@@ -42,6 +42,7 @@ Set up your own proxy:
   https://titaniumnetwork.org/
   https://github.com/Degen-dev/Degeneracy
   https://github.com/STPv22/Dextensify
+  https://github.com/davidebangelista/Vox-OS
 Virtual Machines:
   AnuraOS: https://anura.pro/
   CloudVM: https://webvm.replit.app/
