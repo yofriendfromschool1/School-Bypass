@@ -1,3 +1,4 @@
+@schoolexploitkid
 # School-Bypass
 discord.gg/unblocked
 Webproxies, Blocker bypasses, etc.
