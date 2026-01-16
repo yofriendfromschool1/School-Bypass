@@ -65,6 +65,7 @@ Securly:
   https://github.com/Marc8019/bookmarklets
   https://github.com/NoahPalmer851/ISB-Securly-Classroom-Disabler
   https://github.com/thegreatestgiant/cdn
+  https://github.com/schoolexploitkid/Kill-Securly
   https://github.com/ORryz/school-bypasses
 Linewize/FamilyZone:
   https://github.com/v78641440/LinewizeRemoval
