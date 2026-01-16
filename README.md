@@ -3,6 +3,7 @@
 discord.gg/unblocked
 Webproxies, Blocker bypasses, etc.
 Some free/paid webproxies:
+  Stealth: https://github.com/tholian-network/stealth
   Surfdoge: https://surfdoge.pro/ (src: https://github.com/DogeNetwork/v4)
   CroxyProxy: https://www.croxyproxy.com/
   CoProxy: https://coproxy.io/free-web-proxy/
