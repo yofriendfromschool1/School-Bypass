@@ -176,4 +176,5 @@ If you resetted your pc then install everything back that orginally was on the d
 WARNING:
 YOU CAN AND MAY GET Suspended, Expelled, Fined, or into legal trouble. IF YOU DO IT IS NOT ON ME PLEASE READ UP ON YOUR SCHOOLS POLICY WITH YOUR DEVICE.
 
-incase none of this worked, this repo as well: https://github.com/luh-99/School-Stuff
+incase none of this worked, this repos as well: https://github.com/luh-99/School-Stuff
+https://github.com/S-PScripts/asr-exploit
