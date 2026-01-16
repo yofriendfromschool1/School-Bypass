@@ -121,6 +121,8 @@ https://github.com/thegreatestgiant/cdn
 Netsupport (classroom.cloud):
 https://github.com/S-PScripts/classroom.cloud-exploit
 https://github.com/NHoangLong69/NetsupportBypasser
+https://github.com/ShuKurenai/NetSupport-School-Bypass
+
 
 Mdm bypass for school iPads:
   https://github.com/molangning/bypass
