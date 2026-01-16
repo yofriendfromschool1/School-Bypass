@@ -118,6 +118,10 @@ Cisco Umbrella Bypass and content keeper:
 https://github.com/plinioseniore/cisco-umbrella-bypass
 https://github.com/thegreatestgiant/cdn
 
+Netsupport (classroom.cloud):
+https://github.com/S-PScripts/classroom.cloud-exploit
+
+
 Mdm bypass for school iPads:
   https://github.com/molangning/bypass
 ChromeOS/Chromebooks:
