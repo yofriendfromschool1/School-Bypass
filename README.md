@@ -119,6 +119,9 @@ Cisco Umbrella Bypass and content keeper:
 https://github.com/plinioseniore/cisco-umbrella-bypass
 https://github.com/thegreatestgiant/cdn
 
+Honorlock:
+https://github.com/schoolexploitkid/SpoofLock
+
 Netsupport (classroom.cloud):
 https://github.com/S-PScripts/classroom.cloud-exploit
 https://github.com/NHoangLong69/NetsupportBypasser
