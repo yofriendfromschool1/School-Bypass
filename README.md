@@ -1,4 +1,4 @@
-@schoolexploitkid
+[@schoolexploitkid](https://github.com/schoolexploitkid)
 # School-Bypass
 discord.gg/unblocked
 Webproxies, Blocker bypasses, etc.
