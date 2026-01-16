@@ -122,7 +122,7 @@ Netsupport (classroom.cloud):
 https://github.com/S-PScripts/classroom.cloud-exploit
 https://github.com/NHoangLong69/NetsupportBypasser
 https://github.com/ShuKurenai/NetSupport-School-Bypass
-
+https://github.com/wishbone305/Netsupport-school-client-files
 
 Mdm bypass for school iPads:
   https://github.com/molangning/bypass
