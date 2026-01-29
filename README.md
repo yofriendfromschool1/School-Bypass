@@ -1,4 +1,5 @@
 [@schoolexploitkid](https://github.com/schoolexploitkid)
+use sunshine + moonlight + tailscale (optional: but vpn recommended cloudflare warp/1.1.1.1) if your school laptop is reset and you want to connect to your main laptop at home or pc
 # School-Bypass
 discord.gg/unblocked
 Webproxies, Blocker bypasses, etc.
