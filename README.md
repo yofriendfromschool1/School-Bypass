@@ -1,7 +1,7 @@
 # 🏫 School-Bypass
 
 [![Discord](https://img.shields.io/badge/Discord-discord.gg%2Funblocked-7289DA?logo=discord&logoColor=white)](https://discord.gg/unblocked)
-[![GitHub](https://img.shields.io/badge/GitHub-@schoolexploitkid-181717?logo=github)](https://github.com/schoolexploitkid)
+[![GitHub](https://img.shields.io/badge/GitHub-@yofriendfromschool1-181717?logo=github)](https://github.com/yofriendfromschool1)
 
 > Webproxies, blocker bypasses, and more.
 
