@@ -35,6 +35,7 @@
   - [Lightspeed](#lightspeed)
   - [Cisco Umbrella / Content Keeper](#cisco-umbrella--content-keeper)
   - [Honorlock](#honorlock)
+  - [Smoothwall](#smoothwall)
   - [Netsupport / classroom.cloud](#netsupport--classroomcloud)
 - [Device-Specific Bypasses](#-device-specific-bypasses)
   - [ChromeOS / Chromebooks](#chromeos--chromebooks)
@@ -72,8 +73,9 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 | WebOProxy | [weboproxy.com](https://weboproxy.com/) | — |
 | NetworkChuck Cloud Browser | [browser.networkchuck.com](https://browser.networkchuck.com/) | — |
 | ProxySite | [proxysite.com](https://www.proxysite.com/) | — |
+| Endis | [proxysite.com](https://www.proxysite.com/) | — |
 | ProxyOrb | [proxyorb.com](https://proxyorb.com/) | — |
-| Proxyium | [proxyium.com](https://proxyium.com/) | — |
+| Proxyium | [ajhmath.org](https://ajhmath.org/) | — |
 | Interstellar | [stofcheck-ballinger.com](https://funerals.stofcheck-ballinger.com) | — |
 | ProxyShare | [proxyshare.com](https://www.proxyshare.com/free-proxy/) | — |
 | PlainProxies | [plainproxies.com](https://plainproxies.com/resources/free-web-proxy) | — |
@@ -224,6 +226,12 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
 
 ### Honorlock
+
+- [thatoneham/blade-guard-browser](https://github.com/thatoneham/blade-guard-browser)
+- [Emmiez/Unblocked-Smoothwall-Games](https://github.com/Emmiez/Unblocked-Smoothwall-Games)
+- [seemsfine2me/Smoothwall-Safeguarding-Client-Chrome-Web-Store-Source-Code](https://github.com/seemsfine2me/Smoothwall-Safeguarding-Client-Chrome-Web-Store-Source-Code)
+
+### Smoothwall
 
 - [schoolexploitkid/SpoofLock](https://github.com/schoolexploitkid/SpoofLock)
 
