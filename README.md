@@ -1,194 +1,362 @@
-[@schoolexploitkid](https://github.com/schoolexploitkid)
-use sunshine + moonlight + tailscale (optional: but vpn recommended cloudflare warp/1.1.1.1) if your school laptop is reset and you want to connect to your main laptop at home or pc
-NOTE: IF ANYTHING IS DOWN USE archive.org
-# School-Bypass
-discord.gg/unblocked
-Webproxies, Blocker bypasses, etc.
-Some free/paid webproxies:
-  Stealth: https://github.com/tholian-network/stealth
-  Surfdoge: https://surfdoge.pro/ (src: https://github.com/DogeNetwork/v4)
-  CroxyProxy: https://www.croxyproxy.com/
-  CoProxy: https://coproxy.io/free-web-proxy/
-  WebOProxy: https://weboproxy.com/
-  Networkchuck clould browser: https://browser.networkchuck.com/
-  ProxySite: https://www.proxysite.com/
-  ProxyOrb: https://proxyorb.com/
-  Proxyium: https://proxyium.com/
-  Interstellar: https://funerals.stofcheck-ballinger.com
-  https://github.com/Snipperrazer/Trying-to-unblock-school-websites
-  https://github.com/TacoGuy21/ByeBlocker
-  https://proxyorb.com
-  https://github.com/TacoGuy21/Greatsword-V3
-  https://github.com/TacoGuy21/Slate
-  https://www.tiktok.com/t/ZP8S5tADy/
-  https://github.com/testwaree/MyFileURLS
-  https://www.tiktok.com/t/ZP8SDrvGw/
-  @w: Download khan accademy on ur chromebook if they have it sign in with apple press the apple button search google on the search bar go to app support press the 3 lines press google search and you have unblocked google muliplayer games dont work
-  Proxyshare: 
-      https://www.proxyshare.com/free-proxy/
-  PlainProxies: https://plainproxies.com/resources/free-web-proxy
-  Galaxy Hub: https://galaxyhub.my.canva.site
-  Holy Unblocker: https://holyubofficial.net or https://holyunblocker.org/
-  Incognito: https://incog.works/
-  Alu: https://aluu.xyz/en/
-  Definitely Science: https://definitelyscience.com/apps/ (limited)
-  Radon Games: https://radon.games/proxy
-  Kazwire: https://kazwire.com/
-  Browser.lol: https://browser.lol
-  https://github.com/wea-f/ByePassHub
-  https://github.com/FritzCohen/LumiOS
-  https://github.com/red-stone-network/clockwork
-Set up your own proxy:
-  https://github.com/SevenworksDev/tProxy
-  https://sites.google.com/view/universalunblocking/unblxckers/make-your-own-pr0xy
-  https://sites.google.com/view/exploitsnstuff/unblockers/make-your-own-proxy
-  https://www.youtube.com/watch?v=SFSmS9b22bg
-  https://titaniumnetwork.org/
-  https://github.com/Degen-dev/Degeneracy
-  https://github.com/STPv22/Dextensify
-  https://github.com/davidebangelista/Vox-OS
-Virtual Machines:
-  AnuraOS: https://anura.pro/
-  CloudVM: https://webvm.replit.app/
-  Virtual x86: https://copy.sh/v86/
-  Neverinstall: https://neverinstall.com/
-  Triage: https://tria.ge/
-Sites.google.com:
-  https://sites.google.com/view/wolfunblock/home
-  https://sites.google.com/view/exploitsnstuff/home
-  https://sites.google.com/view/universalunblocking
-GoGuardian Bypasses:
-  https://gogaurdianbypass.vercel.app/ Src: https://github.com/AroriaNetwork/GoGuardian-Bypass
-  https://github.com/yeeterlol/AboutBlankSpoofer
-  https://github.com/Marc8019/bookmarklets
-  https://github.com/thegreatestgiant/cdn
-  https://github.com/ORryz/school-bypasses
-  https://github.com/red-stone-network/bypass-central
-Securly:
-  https://github.com/Marc8019/bookmarklets
-  https://github.com/NoahPalmer851/ISB-Securly-Classroom-Disabler
-  https://github.com/thegreatestgiant/cdn
-  https://github.com/schoolexploitkid/Kill-Securly
-  https://github.com/ORryz/school-bypasses
-Linewize/FamilyZone:
-  https://github.com/v78641440/LinewizeRemoval
-  https://www.saveourschools-march.com/how-to-disable-linewize-on-school-chromebook/
-  https://github.com/Fl1pSyde/Linewize-Killer
-  https://ltbeef.netlify.app/
-  https://github.com/sh495/Hackwize
-  https://github.com/thegreatestgiant/cdn
-Dyknow:
-  https://github.com/Trickshotblaster/Dy-Nope
-  https://github.com/itzCozi/DyNoir
-  https://github.com/hashtagbruhmoment1/DyknowDisabler
-  https://github.com/ThatCoolDev/DyknowDisabler
-  https://github.com/r8btx/Dyknow-Disabler
-  https://github.com/eschan145/DieKnow
-  https://github.com/NoMod-Programming/DyKnow-Bypass
-  https://github.com/thegreatestgiant/cdn
-iBoss:
-  https://github.com/thegreatestgiant/cdn
-  https://github.com/Therock17000/Ibossbad
-  https://github.com/SpaceSaver/Ingot-for-iBoss
-  https://github.com/ORryz/school-bypasses
-Gopher Buddy:
-  https://github.com/thegreatestgiant/cdn
-  https://github.com/nekbytes/Gopher-Buddy-Blocker
+# 🏫 School-Bypass
 
-Fortiguard / Fortinet:
-https://github.com/thegreatestgiant/cdn
+[![Discord](https://img.shields.io/badge/Discord-discord.gg%2Funblocked-7289DA?logo=discord&logoColor=white)](https://discord.gg/unblocked)
+[![GitHub](https://img.shields.io/badge/GitHub-@schoolexploitkid-181717?logo=github)](https://github.com/schoolexploitkid)
 
-LanSchool/Air:
-  https://github.com/thegreatestgiant/cdn
-  https://github.com/AfterSpencer/LanSchool_Student_Removal
-  https://github.com/ThatAquarel/SmurfUltimate
-  https://github.com/sqz269/AntiLanSchool
-  https://github.com/VapeQueen/lanschool-web-bypass
-  https://github.com/ChickenHacker12/lanschool-web-bypass
-  https://github.com/asteroidsigma/Air-Flopperv2
-  https://github.com/darkvoid3946/LSBV1
-  https://github.com/iwannet/LanschoolBlocker
+> Webproxies, blocker bypasses, and more.
 
-Lightspeed:
-  https://github.com/Maxisgod20/LightSpeed-Bypass-Engine
-  https://github.com/krosis2706/Speed-Of-Dark
-  https://github.com/kolts6gamerYT/LIGHTSPEED-FILTER-AGENT-DISABLER
-  https://github.com/sarmadjabri/Lightspeed
-  https://github.com/devel60/bypass-schoolfilter
-  https://github.com/acicero93/schoolsucks
-  https://github.com/red-stone-network/bypass-central
+> **📌 NOTE:** If any links are down, use [archive.org](https://archive.org) to find cached versions.
 
-Cisco Umbrella Bypass and content keeper:
-https://github.com/plinioseniore/cisco-umbrella-bypass
-https://github.com/thegreatestgiant/cdn
+---
 
-Honorlock:
-https://github.com/schoolexploitkid/SpoofLock
+## ⚠️ WARNING
 
-Netsupport (classroom.cloud):
-https://github.com/S-PScripts/classroom.cloud-exploit
-https://github.com/NHoangLong69/NetsupportBypasser
-https://github.com/ShuKurenai/NetSupport-School-Bypass
-https://github.com/wishbone305/Netsupport-school-client-files
+**YOU CAN AND MAY GET SUSPENDED, EXPELLED, FINED, OR INTO LEGAL TROUBLE.**
+**IF YOU DO, IT IS NOT ON ME. PLEASE READ UP ON YOUR SCHOOL'S POLICY REGARDING YOUR DEVICE.**
 
-Mdm bypass for school iPads:
-  https://github.com/molangning/bypass
-ChromeOS/Chromebooks:
-  https://github.com/Vortron-rd/T-Crack
-  https://github.com/schoolexploitkid/CryptoSmite
-  https://github.com/drixpyyy/school-Chromebook-bible
-  https://vortron-rd.github.io/T-Crack/
-  https://www.saveourschools-march.com/how-to-disable-linewize-on-school-chromebook/ (scroll down til you reset chromebook)
-  https://github.com/3kh0/ext-remover
-  https://3kh0.github.io/ext-remover/
-  https://github.com/AdroitJackson/Blobbypass
-  https://github.com/Blobby-Boi/Blobwifi
-  https://github.com/sloange/ExploitHardest
-  https://github.com/masonscped/unrestrict
-  https://github.com/chromebook-hacking
-  https://cb.whale.x10.mx/
-  https://github.com/joetrain2/devtools
-  https://github.com/Blobby-Boi/ExtPrint3r
-  https://github.com/Blobby-Boi/LightSPED-Killer-Agent
-  https://github.com/Snipperrazer/TheBedroom
-  https://github.com/bobombobo/browser-bypasses
-  https://github.com/AshtonDavies/LoMoH
-  https://github.com/AshtonDavies/LTMEAT-Web
-  https://github.com/S-PScripts/chromebook-utilities
-  https://github.com/S-PScripts/ee-exploit
-  https://github.com/S-PScripts/locked-mode-x
-  https://github.com/jun-ro/Chromebook-VM
-  https://github.com/MercuryWorkshop/sh1mmer
-  https://github.com/Agguiopz/Priv
-  
-Windows:
-  https://github.com/0xShaolin/CMD_Bypass
-  https://github.com/v78641440/LinewizeRemoval (just remove the software that montiors your computer)
-  https://www.youtube.com/shorts/roA9tSPsmTw (cmd unblock)
-  https://www.youtube.com/watch?v=U7Djns8RLGM (cmd unblock 2)
-  Use  Windows 10 installation media tool: https://www.microsoft.com/en-us/software-download/windows10 (reset windows)
-  Restart the pc enough times when its on loading and it will eventually try to reset.
-Other:
-  https://github.com/2emk7/2emk7.github.io
-  https://2emk7.github.io/
-  https://piped.video (yt unblock)
-  Hold F2 or F12 or DEL or wtv ur computers bios is and if its locked: https://www.biosbug.com/ or https://bios-pw.org or https://www.youtube.com/watch?v=EP_Bg3UIVOw and disable secure boot (if needed) and create new pass and use a Bootable USB (preferably [Tails](https://tails.net/install/index.en.html) ) and boot off the USB
-  when searching for something and certain search results are blocked just put for example:
-CroxyProxy -> Blocked
-Cr0xyPr0xy -> Not Blocked
-  Just do that and if it asks for "Did you mean? (better result prob here)" just click yeah if u want and it wont get blocked.
-  Use a VPN (preferably Cloudflare Warp or ProtonVPN)
-  use browser extension vpns
-  Use your phone hotspot or a different connection then the school or a pi-hole router or a router that blocks the schools/montioring software ips.
+---
 
-admin bypass:
-  https://github.com/SirDank/ez-admin
+## 📑 Table of Contents
 
-Tips:
-If you resetted your pc then install everything back that orginally was on the device (if it was paid software then just use https://thepiratebay.org, https://1337x.to or some SAFE pirating place and a good torrent is [QBitTorrent](https://www.qbittorrent.org/) and always torrent over vpn) and make it look like if your device was never reset and log back in to everything, dont be unique, blend in. Also if your on windows 10 always clean up reguarly using [BleachBit](https://www.bleachbit.org/) and Disk Cleanup and [RevoUninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/). Also when you need to return your device (if you graduate or over the summer) reset the device and make it look normal again with everything installed on it but don't login to anything. If they ask any questions about it being reset just say it was like that since you got it and always deny, but if it gets legal dont talk, ask for a lawyer. (highly doubt that they'll go this far) Don't get caught doing anything your not supposed to be doing and when your on the schools wifi use a VPN. (Cloudflare Warp or ProtonVPN or Anonsurf (tor) prefered or ) Don't tell anyone or post that your pc is reset and dont be flexing and dont tie your schools life to your personal/social life, example: Logging into your socials on the unblocked device.
+- [Remote Access Setup](#-remote-access-setup)
+- [Web Proxies](#-web-proxies)
+- [Set Up Your Own Proxy](#-set-up-your-own-proxy)
+- [Virtual Machines](#-virtual-machines)
+- [Google Sites Resources](#-google-sites-resources)
+- [Blocker & Monitoring Bypasses](#-blocker--monitoring-bypasses)
+  - [GoGuardian](#goguardian)
+  - [Securly](#securly)
+  - [Linewize / FamilyZone](#linewize--familyzone)
+  - [Dyknow](#dyknow)
+  - [iBoss](#iboss)
+  - [Gopher Buddy](#gopher-buddy)
+  - [Fortiguard / Fortinet](#fortiguard--fortinet)
+  - [LanSchool / Air](#lanschool--air)
+  - [Lightspeed](#lightspeed)
+  - [Cisco Umbrella / Content Keeper](#cisco-umbrella--content-keeper)
+  - [Honorlock](#honorlock)
+  - [Netsupport / classroom.cloud](#netsupport--classroomcloud)
+- [Device-Specific Bypasses](#-device-specific-bypasses)
+  - [ChromeOS / Chromebooks](#chromeos--chromebooks)
+  - [Windows](#windows)
+  - [iPads (MDM Bypass)](#ipads-mdm-bypass)
+- [Admin Bypass](#-admin-bypass)
+- [Other Tools & Tricks](#-other-tools--tricks)
+- [Tips & Best Practices](#-tips--best-practices)
+- [Additional Resources](#-additional-resources)
 
-WARNING:
-YOU CAN AND MAY GET Suspended, Expelled, Fined, or into legal trouble. IF YOU DO IT IS NOT ON ME PLEASE READ UP ON YOUR SCHOOLS POLICY WITH YOUR DEVICE.
+---
 
-incase none of this worked, this repos as well: https://github.com/luh-99/School-Stuff
-https://github.com/S-PScripts/asr-exploit
+## 🖥️ Remote Access Setup
+
+Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC from your school laptop (e.g., if your school laptop has been reset).
+
+- [Sunshine](https://github.com/LizardByte/Sunshine) — Host/server on your home PC
+- [Moonlight](https://moonlight-stream.org/) — Client on your school device
+- [Tailscale](https://tailscale.com/) — VPN mesh network to connect them
+
+> **Optional but recommended:** Use a VPN like [Cloudflare WARP / 1.1.1.1](https://1.1.1.1/) for extra privacy.
+
+---
+
+## 🌐 Web Proxies
+
+### Free / Paid Proxy Services
+
+| Name | Link | Source |
+|------|------|--------|
+| Stealth | — | [GitHub](https://github.com/tholian-network/stealth) |
+| Surfdoge | [surfdoge.pro](https://surfdoge.pro/) | [GitHub](https://github.com/DogeNetwork/v4) |
+| CroxyProxy | [croxyproxy.com](https://www.croxyproxy.com/) | — |
+| CoProxy | [coproxy.io](https://coproxy.io/free-web-proxy/) | — |
+| WebOProxy | [weboproxy.com](https://weboproxy.com/) | — |
+| NetworkChuck Cloud Browser | [browser.networkchuck.com](https://browser.networkchuck.com/) | — |
+| ProxySite | [proxysite.com](https://www.proxysite.com/) | — |
+| ProxyOrb | [proxyorb.com](https://proxyorb.com/) | — |
+| Proxyium | [proxyium.com](https://proxyium.com/) | — |
+| Interstellar | [stofcheck-ballinger.com](https://funerals.stofcheck-ballinger.com) | — |
+| ProxyShare | [proxyshare.com](https://www.proxyshare.com/free-proxy/) | — |
+| PlainProxies | [plainproxies.com](https://plainproxies.com/resources/free-web-proxy) | — |
+| Galaxy Hub | [galaxyhub (Canva)](https://galaxyhub.my.canva.site) | — |
+| Holy Unblocker | [holyubofficial.net](https://holyubofficial.net) / [holyunblocker.org](https://holyunblocker.org/) | — |
+| Incognito | [incog.works](https://incog.works/) | — |
+| Alu | [aluu.xyz](https://aluu.xyz/en/) | — |
+| Definitely Science | [definitelyscience.com](https://definitelyscience.com/apps/) | Limited |
+| Radon Games | [radon.games/proxy](https://radon.games/proxy) | — |
+| Kazwire | [kazwire.com](https://kazwire.com/) | — |
+| Browser.lol | [browser.lol](https://browser.lol) | — |
+
+### Proxy Projects on GitHub
+
+- [Snipperrazer/Trying-to-unblock-school-websites](https://github.com/Snipperrazer/Trying-to-unblock-school-websites)
+- [TacoGuy21/ByeBlocker](https://github.com/TacoGuy21/ByeBlocker)
+- [TacoGuy21/Greatsword-V3](https://github.com/TacoGuy21/Greatsword-V3)
+- [TacoGuy21/Slate](https://github.com/TacoGuy21/Slate)
+- [testwaree/MyFileURLS](https://github.com/testwaree/MyFileURLS)
+- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub)
+- [FritzCohen/LumiOS](https://github.com/FritzCohen/LumiOS)
+- [red-stone-network/clockwork](https://github.com/red-stone-network/clockwork)
+
+### TikTok Tutorials
+
+- [TikTok Tutorial 1](https://www.tiktok.com/t/ZP8S5tADy/)
+- [TikTok Tutorial 2](https://www.tiktok.com/t/ZP8SDrvGw/)
+
+### 💡 Khan Academy Trick (Chromebook)
+
+> Download Khan Academy on your Chromebook (if available). Sign in with Apple → press the Apple button → search "Google" in the search bar → go to App Support → press the 3 lines → press Google Search. You now have unblocked Google. **Note:** Multiplayer games don't work.
+
+---
+
+## 🔧 Set Up Your Own Proxy
+
+- [SevenworksDev/tProxy](https://github.com/SevenworksDev/tProxy)
+- [Guide: Make Your Own Proxy (Universal Unblocking)](https://sites.google.com/view/universalunblocking/unblxckers/make-your-own-pr0xy)
+- [Guide: Make Your Own Proxy (Exploits n Stuff)](https://sites.google.com/view/exploitsnstuff/unblockers/make-your-own-proxy)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=SFSmS9b22bg)
+- [Titanium Network](https://titaniumnetwork.org/)
+- [Degen-dev/Degeneracy](https://github.com/Degen-dev/Degeneracy)
+- [STPv22/Dextensify](https://github.com/STPv22/Dextensify)
+- [davidebangelista/Vox-OS](https://github.com/davidebangelista/Vox-OS)
+
+---
+
+## 💻 Virtual Machines
+
+| Name | Link |
+|------|------|
+| AnuraOS | [anura.pro](https://anura.pro/) |
+| CloudVM | [webvm.replit.app](https://webvm.replit.app/) |
+| Virtual x86 | [copy.sh/v86](https://copy.sh/v86/) |
+| Neverinstall | [neverinstall.com](https://neverinstall.com/) |
+| Triage | [tria.ge](https://tria.ge/) |
+
+---
+
+## 📄 Google Sites Resources
+
+- [Wolf Unblock](https://sites.google.com/view/wolfunblock/home)
+- [Exploits n Stuff](https://sites.google.com/view/exploitsnstuff/home)
+- [Universal Unblocking](https://sites.google.com/view/universalunblocking)
+
+---
+
+## 🛡️ Blocker & Monitoring Bypasses
+
+### GoGuardian
+
+- [GoGuardian Bypass (Web)](https://gogaurdianbypass.vercel.app/) — [Source](https://github.com/AroriaNetwork/GoGuardian-Bypass)
+- [yeeterlol/AboutBlankSpoofer](https://github.com/yeeterlol/AboutBlankSpoofer)
+- [Marc8019/bookmarklets](https://github.com/Marc8019/bookmarklets)
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+- [ORryz/school-bypasses](https://github.com/ORryz/school-bypasses)
+- [red-stone-network/bypass-central](https://github.com/red-stone-network/bypass-central)
+
+### Securly
+
+- [Marc8019/bookmarklets](https://github.com/Marc8019/bookmarklets)
+- [NoahPalmer851/ISB-Securly-Classroom-Disabler](https://github.com/NoahPalmer851/ISB-Securly-Classroom-Disabler)
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+- [schoolexploitkid/Kill-Securly](https://github.com/schoolexploitkid/Kill-Securly)
+- [ORryz/school-bypasses](https://github.com/ORryz/school-bypasses)
+
+### Linewize / FamilyZone
+
+- [v78641440/LinewizeRemoval](https://github.com/v78641440/LinewizeRemoval)
+- [How to Disable Linewize on School Chromebook](https://www.saveourschools-march.com/how-to-disable-linewize-on-school-chromebook/)
+- [Fl1pSyde/Linewize-Killer](https://github.com/Fl1pSyde/Linewize-Killer)
+- [LTBeef (Web)](https://ltbeef.netlify.app/)
+- [sh495/Hackwize](https://github.com/sh495/Hackwize)
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+
+### Dyknow
+
+- [Trickshotblaster/Dy-Nope](https://github.com/Trickshotblaster/Dy-Nope)
+- [itzCozi/DyNoir](https://github.com/itzCozi/DyNoir)
+- [hashtagbruhmoment1/DyknowDisabler](https://github.com/hashtagbruhmoment1/DyknowDisabler)
+- [ThatCoolDev/DyknowDisabler](https://github.com/ThatCoolDev/DyknowDisabler)
+- [r8btx/Dyknow-Disabler](https://github.com/r8btx/Dyknow-Disabler)
+- [eschan145/DieKnow](https://github.com/eschan145/DieKnow)
+- [NoMod-Programming/DyKnow-Bypass](https://github.com/NoMod-Programming/DyKnow-Bypass)
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+
+### iBoss
+
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+- [Therock17000/Ibossbad](https://github.com/Therock17000/Ibossbad)
+- [SpaceSaver/Ingot-for-iBoss](https://github.com/SpaceSaver/Ingot-for-iBoss)
+- [ORryz/school-bypasses](https://github.com/ORryz/school-bypasses)
+
+### Gopher Buddy
+
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+- [nekbytes/Gopher-Buddy-Blocker](https://github.com/nekbytes/Gopher-Buddy-Blocker)
+
+### Fortiguard / Fortinet
+
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+
+### LanSchool / Air
+
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+- [AfterSpencer/LanSchool_Student_Removal](https://github.com/AfterSpencer/LanSchool_Student_Removal)
+- [ThatAquarel/SmurfUltimate](https://github.com/ThatAquarel/SmurfUltimate)
+- [sqz269/AntiLanSchool](https://github.com/sqz269/AntiLanSchool)
+- [VapeQueen/lanschool-web-bypass](https://github.com/VapeQueen/lanschool-web-bypass)
+- [ChickenHacker12/lanschool-web-bypass](https://github.com/ChickenHacker12/lanschool-web-bypass)
+- [asteroidsigma/Air-Flopperv2](https://github.com/asteroidsigma/Air-Flopperv2)
+- [darkvoid3946/LSBV1](https://github.com/darkvoid3946/LSBV1)
+- [iwannet/LanschoolBlocker](https://github.com/iwannet/LanschoolBlocker)
+
+### Lightspeed
+
+- [Maxisgod20/LightSpeed-Bypass-Engine](https://github.com/Maxisgod20/LightSpeed-Bypass-Engine)
+- [krosis2706/Speed-Of-Dark](https://github.com/krosis2706/Speed-Of-Dark)
+- [kolts6gamerYT/LIGHTSPEED-FILTER-AGENT-DISABLER](https://github.com/kolts6gamerYT/LIGHTSPEED-FILTER-AGENT-DISABLER)
+- [sarmadjabri/Lightspeed](https://github.com/sarmadjabri/Lightspeed)
+- [devel60/bypass-schoolfilter](https://github.com/devel60/bypass-schoolfilter)
+- [acicero93/schoolsucks](https://github.com/acicero93/schoolsucks)
+- [red-stone-network/bypass-central](https://github.com/red-stone-network/bypass-central)
+
+### Cisco Umbrella / Content Keeper
+
+- [plinioseniore/cisco-umbrella-bypass](https://github.com/plinioseniore/cisco-umbrella-bypass)
+- [thegreatestgiant/cdn](https://github.com/thegreatestgiant/cdn)
+
+### Honorlock
+
+- [schoolexploitkid/SpoofLock](https://github.com/schoolexploitkid/SpoofLock)
+
+### Netsupport / classroom.cloud
+
+- [S-PScripts/classroom.cloud-exploit](https://github.com/S-PScripts/classroom.cloud-exploit)
+- [NHoangLong69/NetsupportBypasser](https://github.com/NHoangLong69/NetsupportBypasser)
+- [ShuKurenai/NetSupport-School-Bypass](https://github.com/ShuKurenai/NetSupport-School-Bypass)
+- [wishbone305/Netsupport-school-client-files](https://github.com/wishbone305/Netsupport-school-client-files)
+
+---
+
+## 📱 Device-Specific Bypasses
+
+### ChromeOS / Chromebooks
+
+- [Vortron-rd/T-Crack](https://github.com/Vortron-rd/T-Crack) — [Web](https://vortron-rd.github.io/T-Crack/)
+- [schoolexploitkid/CryptoSmite](https://github.com/schoolexploitkid/CryptoSmite)
+- [drixpyyy/school-Chromebook-bible](https://github.com/drixpyyy/school-Chromebook-bible)
+- [How to Reset Chromebook](https://www.saveourschools-march.com/how-to-disable-linewize-on-school-chromebook/) *(scroll down to the reset section)*
+- [3kh0/ext-remover](https://github.com/3kh0/ext-remover) — [Web](https://3kh0.github.io/ext-remover/)
+- [AdroitJackson/Blobbypass](https://github.com/AdroitJackson/Blobbypass)
+- [Blobby-Boi/Blobwifi](https://github.com/Blobby-Boi/Blobwifi)
+- [sloange/ExploitHardest](https://github.com/sloange/ExploitHardest)
+- [masonscped/unrestrict](https://github.com/masonscped/unrestrict)
+- [chromebook-hacking](https://github.com/chromebook-hacking)
+- [cb.whale.x10.mx](https://cb.whale.x10.mx/)
+- [joetrain2/devtools](https://github.com/joetrain2/devtools)
+- [Blobby-Boi/ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r)
+- [Blobby-Boi/LightSPED-Killer-Agent](https://github.com/Blobby-Boi/LightSPED-Killer-Agent)
+- [Snipperrazer/TheBedroom](https://github.com/Snipperrazer/TheBedroom)
+- [bobombobo/browser-bypasses](https://github.com/bobombobo/browser-bypasses)
+- [AshtonDavies/LoMoH](https://github.com/AshtonDavies/LoMoH)
+- [AshtonDavies/LTMEAT-Web](https://github.com/AshtonDavies/LTMEAT-Web)
+- [S-PScripts/chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities)
+- [S-PScripts/ee-exploit](https://github.com/S-PScripts/ee-exploit)
+- [S-PScripts/locked-mode-x](https://github.com/S-PScripts/locked-mode-x)
+- [jun-ro/Chromebook-VM](https://github.com/jun-ro/Chromebook-VM)
+- [MercuryWorkshop/sh1mmer](https://github.com/MercuryWorkshop/sh1mmer)
+- [Agguiopz/Priv](https://github.com/Agguiopz/Priv)
+
+### Windows
+
+- [0xShaolin/CMD_Bypass](https://github.com/0xShaolin/CMD_Bypass)
+- [v78641440/LinewizeRemoval](https://github.com/v78641440/LinewizeRemoval) *(remove monitoring software)*
+- [CMD Unblock Tutorial 1 (YouTube Short)](https://www.youtube.com/shorts/roA9tSPsmTw)
+- [CMD Unblock Tutorial 2 (YouTube)](https://www.youtube.com/watch?v=U7Djns8RLGM)
+- [Windows 10 Installation Media Tool](https://www.microsoft.com/en-us/software-download/windows10) *(to reset Windows)*
+- **Tip:** Restart the PC enough times during the loading screen, and it will eventually trigger a reset/recovery option.
+
+### iPads (MDM Bypass)
+
+- [molangning/bypass](https://github.com/molangning/bypass)
+
+---
+
+## 🔑 Admin Bypass
+
+- [SirDank/ez-admin](https://github.com/SirDank/ez-admin)
+
+---
+
+## 🧰 Other Tools & Tricks
+
+### YouTube Unblocked
+
+- [piped.video](https://piped.video)
+
+### BIOS Access
+
+> Hold **F2**, **F12**, **DEL**, or your computer's specific BIOS key on boot. If BIOS is password-locked:
+> - [biosbug.com](https://www.biosbug.com/)
+> - [bios-pw.org](https://bios-pw.org)
+> - [YouTube Tutorial](https://www.youtube.com/watch?v=EP_Bg3UIVOw)
+>
+> Once in BIOS: Disable Secure Boot (if needed), create a new password, and boot from a **Bootable USB** (preferably [Tails](https://tails.net/install/index.en.html)).
+
+### Search Filter Bypass Trick
+
+> When a search term is blocked, replace letters with numbers:
+> - `CroxyProxy` → ❌ Blocked
+> - `Cr0xyPr0xy` → ✅ Not Blocked
+>
+> If the search engine suggests "Did you mean...?", click it — the corrected result usually won't be blocked.
+
+### VPN Recommendations
+
+- [Cloudflare WARP / 1.1.1.1](https://1.1.1.1/)
+- [ProtonVPN](https://protonvpn.com/)
+- [Anonsurf (Tor)](https://github.com/Und3rf10w/kali-anonsurf)
+- Browser extension VPNs
+
+### Network Tricks
+
+- Use your **phone hotspot** or a different connection than the school's network.
+- Use a **Pi-hole** router or a router configured to block monitoring software IPs.
+
+### Miscellaneous
+
+- [2emk7.github.io](https://2emk7.github.io/) — [Source](https://github.com/2emk7/2emk7.github.io)
+
+---
+
+## 💡 Tips & Best Practices
+
+1. **After resetting your PC**, reinstall everything that was originally on the device (also you can install linux distros that look and act similar to original os https://github.com/yofriendfromschool1/Closest-Linux-Distros-to-OS). If the software was paid, use safe pirating sources like [ThePirateBay](https://thepiratebay.org) or [1337x](https://1337x.to) with a good torrent client like [qBittorrent](https://www.qbittorrent.org/). **Always torrent over a VPN.**
+
+2. **Make it look like your device was never reset.** Log back into everything and blend in — don't be unique.
+
+3. **On Windows 10**, regularly clean up using:
+   - [BleachBit](https://www.bleachbit.org/)
+   - Disk Cleanup (built-in)
+   - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/)
+
+4. **When returning your device** (graduation, summer, etc.), reset it and reinstall original software but **don't log into anything.**
+
+5. **If questioned** about the device being reset, say it was like that since you received it. **Always deny.** If it escalates to legal matters, **don't talk — ask for a lawyer.** *(Highly unlikely it goes that far.)*
+
+6. **On school WiFi, always use a VPN** (Cloudflare WARP, ProtonVPN, or Anonsurf/Tor).
+
+7. **Don't tell anyone** your PC is reset. Don't flex. Don't post about it.
+
+8. **Don't tie your school life to your personal/social life** — for example, don't log into your personal social media accounts on the unblocked device.
+
+---
+
+## 📚 Additional Resources
+
+If none of the above worked, try these repositories:
+
+- [luh-99/School-Stuff](https://github.com/luh-99/School-Stuff)
+- [S-PScripts/asr-exploit](https://github.com/S-PScripts/asr-exploit)
+
+---
+
+*Made with ❤️ by [@yofriendfromschool1](https://github.com/yofriendfromschool1)*
