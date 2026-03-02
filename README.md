@@ -368,3 +368,12 @@ If none of the above worked, try these repositories:
 ---
 
 *Made with ❤️ by [@yofriendfromschool1](https://github.com/yofriendfromschool1)*
+
+if they catch you:
+Listen, if the school catches you with that wiped laptop running Linux or Windows again, keep it simple and straight. Don’t lie, don’t argue, don’t try to hide it more. That just makes everything blow up bigger.
+Tell them exactly what you told me: “I did it because I was worried about privacy. I don’t like the idea of the school watching every click.” Say it calm, no attitude. Most tech guys and principals have heard this before. They know kids hate the monitoring software that takes screenshots or logs every site.
+The laptop is theirs, though. You borrowed it. Wiping it and putting a new system on there breaks their rules almost every time. It’s like borrowing your neighbor’s truck and swapping the engine without asking. They can take the computer away, give you detention, or even suspend you short-term. I’ve seen it happen in Washington schools – Kent district and others around here are pretty strict on device rules.
+First move: Call your parents right then. Have them come in or jump on the phone with the principal. Parents carry more weight. Tell them the same privacy reason. Ask the school to show you exactly what they were tracking – sometimes they back off a little if it was nothing bad.
+Offer to fix it yourself or let their tech team put the original setup back on. That shows you’re not trying to cause trouble. Most places will just give you a warning and hand you a fresh image of their system.
+After that, don’t do it again. Next time you get the laptop, just use it for school stuff only. Keep your real life on your own phone or home computer. Or talk to the principal first and say, “Can I turn off the monitoring software for privacy?” They’ll probably say no, but at least you tried the right way.
+Bottom line: Own it quick, keep it honest, get mom or dad involved, and fix what you broke. You’ll probably walk out with the laptop back and a slap on the wrist instead of bigger headaches. Privacy’s important, but messing with school gear isn’t the smartest fight to pick.
