@@ -45,6 +45,7 @@
 - [Other Tools & Tricks](#-other-tools--tricks)
 - [Tips & Best Practices](#-tips--best-practices)
 - [Additional Resources](#-additional-resources)
+- [My Current Setup](#-my-current-setup-)
 
 ---
 
@@ -364,6 +365,12 @@ If none of the above worked, try these repositories:
 
 - [luh-99/School-Stuff](https://github.com/luh-99/School-Stuff)
 - [S-PScripts/asr-exploit](https://github.com/S-PScripts/asr-exploit)
+
+---
+
+## My Current Setup
+
+- Unlock bios, find fastest usb ports on the device you are trying, get a matching (or faster) usb with 128gb or higher, and install linux mint cinnamon (can install windows or any other os but slower), and make it as close as to windows 10 or original os as possible, then install all missing applications and get all cheating extensions and everything.
 
 ---
 
