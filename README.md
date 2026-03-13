@@ -371,6 +371,48 @@ If none of the above worked, try these repositories:
 ## My Current Setup
 
 - Unlock bios, find fastest usb ports on the device you are trying, get a matching (or faster) usb (preferbaly smallest form and matching color of case and hide usb with something) with 128gb or higher, and install linux mint cinnamon (can install windows or any other os but slower), and make it as close as to windows 10 or original os as possible, then install all missing applications and get all cheating extensions and everything.
+- Because standard USB drives use basic NAND flash memory, they have a limited number of "write cycles" before the memory cells degrade and lock up. A standard desktop operating system assumes it is installed on a robust SSD or HDD and will constantly write small bits of background data to the drive, which can kill a standard flash drive in a matter of months.
+To extend the lifespan of your portable Linux Mint OS, you need to minimize how often it writes to the USB. Here are the four most effective ways to do that.
+Step 1: Reduce "Swappiness" (Crucial)
+Linux naturally moves idle background applications from your fast RAM to your hard drive (a process called "swapping") to keep your RAM completely free for active tasks. This constant shuffling of data writes heavily to the drive.
+We need to tell Linux to only use the USB drive for swap memory as an absolute last resort (only when RAM is 99% full).
+ * Open the Terminal (Ctrl + Alt + T).
+ * Open the system configuration file in a text editor with administrative privileges:
+   sudo nano /etc/sysctl.conf
+
+ * Use your arrow keys to scroll to the very bottom of the file and paste this line:
+   vm.swappiness=1
+
+ * Save the file by pressing Ctrl + O, hit Enter to confirm, and then exit by pressing Ctrl + X.
+Step 2: Stop Updating "Read" Timestamps (noatime)
+By default, every time you open a file or folder, Linux writes a new timestamp to the drive to record exactly when it was last accessed. This means even a simple read operation forces a write operation, doubling the wear on your USB.
+ * Open the File System Table configuration:
+   sudo nano /etc/fstab
+
+ * Look for the line that mounts your root partition (it will have a / in the second column and usually says ext4). It will look something like this:
+   UUID=1234abcd-56ef... / ext4 errors=remount-ro 0 1
+ * Add the word noatime, right before errors=remount-ro. It should look like this:
+   UUID=1234abcd-56ef... / ext4 noatime,errors=remount-ro 0 1
+ * Save (Ctrl + O, Enter) and exit (Ctrl + X).
+Step 3: Move Temporary Files to RAM (tmpfs)
+Your operating system constantly generates tiny temporary files and system logs in the background. You can instruct Linux to store these in your computer's RAM instead of writing them to the USB drive. Because RAM clears itself when the computer turns off, it absorbs all the wear and tear.
+ * Open the File System Table again:
+   sudo nano /etc/fstab
+
+ * Scroll to the bottom and add these two lines:
+   tmpfs /tmp tmpfs defaults,noatime,mode=1777 0 0
+tmpfs /var/log tmpfs defaults,noatime,mode=0755 0 0
+
+ * Save (Ctrl + O, Enter) and exit (Ctrl + X).
+   * Important Note: Moving /var/log to RAM means your system logs will be wiped every time you shut down. If you ever experience a system crash, you won't have the logs from previous sessions to troubleshoot with.
+Step 4: Disable Browser Disk Caching
+Web browsers like Firefox are notoriously aggressive about writing cached images and webpage data to your drive while you surf the internet.
+If you use Firefox (Linux Mint's default):
+ * Open Firefox and type about:config in the URL bar, then hit Enter.
+ * Accept the risk warning.
+ * In the search bar, type browser.cache.disk.enable.
+ * Double-click the result to change its value from true to false. Firefox will now only cache websites in your RAM.
+After completing these steps, restart your computer. Your portable OS will now be highly optimized to run smoothly from a USB drive without prematurely burning out the flash memory.
 
 ---
 
