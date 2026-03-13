@@ -370,7 +370,7 @@ If none of the above worked, try these repositories:
 
 ## My Current Setup
 
-- Unlock bios, find fastest usb ports on the device you are trying, get a matching (or faster) usb with 128gb or higher, and install linux mint cinnamon (can install windows or any other os but slower), and make it as close as to windows 10 or original os as possible, then install all missing applications and get all cheating extensions and everything.
+- Unlock bios, find fastest usb ports on the device you are trying, get a matching (or faster) usb (preferbaly smallest form and matching color of case and hide usb with something) with 128gb or higher, and install linux mint cinnamon (can install windows or any other os but slower), and make it as close as to windows 10 or original os as possible, then install all missing applications and get all cheating extensions and everything.
 
 ---
 
