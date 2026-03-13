@@ -323,6 +323,12 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [Cloudflare WARP / 1.1.1.1](https://1.1.1.1/)
 - [ProtonVPN](https://protonvpn.com/)
 - [Anonsurf (Tor)](https://github.com/Und3rf10w/kali-anonsurf)
+- [VpnHood!](https://www.vpnhood.com)
+- [Psiphon](https://psiphon.ca)
+- [PsiphonLinux](https://github.com/SpherionOS/PsiphonLinux)
+- [PsiphonLinuxGUI](https://github.com/Alessandros-Hube/PsiphonLinuxGUI)
+- [Lantern](https://lantern.io)
+- [Outline](https://getoutline.org)
 - Browser extension VPNs
 
 ### Network Tricks
