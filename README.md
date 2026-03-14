@@ -265,6 +265,8 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [Blobby-Boi/LightSPED-Killer-Agent](https://github.com/Blobby-Boi/LightSPED-Killer-Agent)
 - [Snipperrazer/TheBedroom](https://github.com/Snipperrazer/TheBedroom)
 - [bobombobo/browser-bypasses](https://github.com/bobombobo/browser-bypasses)
+- [Block-Bypass](https://github.com/catfoolyou/Block-Bypass)
+- [catfoolyou.github.io/Block-Bypass](https://catfoolyou.github.io/Block-Bypass)
 - [AshtonDavies/LoMoH](https://github.com/AshtonDavies/LoMoH)
 - [AshtonDavies/LTMEAT-Web](https://github.com/AshtonDavies/LTMEAT-Web)
 - [S-PScripts/chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities)
@@ -281,6 +283,8 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [CMD Unblock Tutorial 1 (YouTube Short)](https://www.youtube.com/shorts/roA9tSPsmTw)
 - [CMD Unblock Tutorial 2 (YouTube)](https://www.youtube.com/watch?v=U7Djns8RLGM)
 - [Windows 10 Installation Media Tool](https://www.microsoft.com/en-us/software-download/windows10) *(to reset Windows)*
+- [Block-Bypass](https://github.com/catfoolyou/Block-Bypass)
+- [catfoolyou.github.io/Block-Bypass](https://catfoolyou.github.io/Block-Bypass)
 - **Tip:** Restart the PC enough times during the loading screen, and it will eventually trigger a reset/recovery option.
 
 ### iPads (MDM Bypass)
