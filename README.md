@@ -333,6 +333,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [PsiphonLinuxGUI](https://github.com/Alessandros-Hube/PsiphonLinuxGUI)
 - [Lantern](https://lantern.io)
 - [Outline](https://getoutline.org)
+- [BypassCensorship](https://www.bypasscensorship.org/tools/)
 - Browser extension VPNs
 
 ### Network Tricks
