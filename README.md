@@ -87,6 +87,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 | Definitely Science | [definitelyscience.com](https://definitelyscience.com/apps/) | Limited |
 | Radon Games | [radon.games/proxy](https://radon.games/proxy) | — |
 | Kazwire | [kazwire.com](https://kazwire.com/) | — |
+|Inkhorizon | [InkHorizon](http://sites.google.com/view/inkhorizon/) | — |
 | Browser.lol | [browser.lol](https://browser.lol) | — |
 
 ### Proxy Projects on GitHub
