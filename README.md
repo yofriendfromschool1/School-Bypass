@@ -89,7 +89,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 | Kazwire | [kazwire.com](https://kazwire.com/) | — |
 |Inkhorizon | [InkHorizon](http://sites.google.com/view/inkhorizon/prx) | — |
 | UBX | [UBX](https://d9by6xfdi9c2r.cloudfront.net/web/) | — |
-| Mypersonalweb| https://project-87xpi.vercel.app/ | — |
+| Mypersonalweb | https://project-87xpi.vercel.app/ https://d7qbv55si3oxi.cloudfront.net https://history-project-draft.netlify.app | — |
 | Browser.lol | [browser.lol](https://browser.lol) | — |
 
 ### Proxy Projects on GitHub
