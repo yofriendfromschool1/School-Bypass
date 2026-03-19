@@ -88,7 +88,8 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 | Radon Games | [radon.games/proxy](https://radon.games/proxy) | — |
 | Kazwire | [kazwire.com](https://kazwire.com/) | — |
 |Inkhorizon | [InkHorizon](http://sites.google.com/view/inkhorizon/prx) | — |
-| UBX | [UBX](https://d9by6xfdi9c2r.cloudfront.net/web/) | - |
+| UBX | [UBX](https://d9by6xfdi9c2r.cloudfront.net/web/) | — |
+| Mypersonalweb| https://project-87xpi.vercel.app/ | — |
 | Browser.lol | [browser.lol](https://browser.lol) | — |
 
 ### Proxy Projects on GitHub
