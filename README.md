@@ -136,6 +136,8 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 | Virtual x86 | [copy.sh/v86](https://copy.sh/v86/) |
 | Neverinstall | [neverinstall.com](https://neverinstall.com/) |
 | Triage | [tria.ge](https://tria.ge/) |
+| blobeVM | [https://github.com/Blobby-Boi/BlobeVM](https://github.com/Blobby-Boi/BlobeVM) |
+| fastVM | [https://github.com/CloudCompile/fastvm](https://github.com/CloudCompile/fastvm) |
 
 ---
 
@@ -278,7 +280,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [jun-ro/Chromebook-VM](https://github.com/jun-ro/Chromebook-VM)
 - [MercuryWorkshop/sh1mmer](https://github.com/MercuryWorkshop/sh1mmer)
 - [Agguiopz/Priv](https://github.com/Agguiopz/Priv)
-- [Chrome100 look at video in code of this repo](https://chrome100.dev)
+- [Chrome100 look at video in code of this repo, also dont use sd cards they dont work](https://chrome100.dev)
 
 ### Windows
 
