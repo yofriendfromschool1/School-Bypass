@@ -278,6 +278,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [jun-ro/Chromebook-VM](https://github.com/jun-ro/Chromebook-VM)
 - [MercuryWorkshop/sh1mmer](https://github.com/MercuryWorkshop/sh1mmer)
 - [Agguiopz/Priv](https://github.com/Agguiopz/Priv)
+- [Chrome100 look at video in code of this repo](https://chrome100.dev)
 
 ### Windows
 
