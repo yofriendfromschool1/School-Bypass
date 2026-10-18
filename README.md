@@ -85,6 +85,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 | Incognito | [incog.works](https://incog.works/) | — |
 | Alu | [aluu.xyz](https://aluu.xyz/en/) | — |
 | Definitely Science | [definitelyscience.com](https://definitelyscience.com/apps/) | Limited |
+| Blooket1 (Games + `about:blank` Cloak) | [blooket1.com](https://blooket1.com/) / [blooket1.pages.dev](https://blooket1.pages.dev/) / [educational.blooket1.com](https://educational.blooket1.com/) | [GitHub](https://github.com/abisdbest/newgamewebsite) |
 | Radon Games | [radon.games/proxy](https://radon.games/proxy) | — |
 | Kazwire | [kazwire.com](https://kazwire.com/) | — |
 |Inkhorizon | [InkHorizon](http://sites.google.com/view/inkhorizon/prx) | — |
