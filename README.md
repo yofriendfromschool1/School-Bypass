@@ -126,6 +126,18 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [davidebangelista/Vox-OS](https://github.com/davidebangelista/Vox-OS)
 
 ---
+## 🎩🐻🍕 five nights at freddy's
+
+HTML5 PORT
+
+- [github](https://github.com/irv77/hd_fnaf)
+
+NOTE: fnaf 1-3 only works
+
+
+
+
+---
 
 ## 💻 Virtual Machines
 
