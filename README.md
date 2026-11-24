@@ -12,6 +12,7 @@
 ## ⚠️ WARNING
 
 **YOU CAN AND MAY GET SUSPENDED, EXPELLED, FINED, OR INTO LEGAL TROUBLE.**
+
 **IF YOU DO, IT IS NOT ON ME. PLEASE READ UP ON YOUR SCHOOL'S POLICY REGARDING YOUR DEVICE.**
 
 ---
@@ -137,10 +138,17 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 | Virtual x86 | [copy.sh/v86](https://copy.sh/v86/) |
 | Neverinstall | [neverinstall.com](https://neverinstall.com/) |
 | Triage | [tria.ge](https://tria.ge/) |
-| blobeVM | [https://github.com/Blobby-Boi/BlobeVM](https://github.com/Blobby-Boi/BlobeVM) |
-| fastVM | [https://github.com/CloudCompile/fastvm](https://github.com/CloudCompile/fastvm) |
-| trevvm | [https://github.com/trevortesch/trevvm](https://github.com/trevortesch/trevvm) |
+| BlobeVM | [https://github.com/Blobby-Boi/BlobeVM](https://github.com/Blobby-Boi/BlobeVM) |
+| FastVM | [https://github.com/CloudCompile/fastvm](https://github.com/CloudCompile/fastvm) |
+| TrevVM | [https://github.com/AuthTrevor/TrevVM](https://github.com/AuthTrevor/TrevVM) |
+| TrevVM-2 | [https://github.com/AuthTrevor/TrevVM-2](https://github.com/AuthTrevor/TrevVM-2) |
 
+
+---
+
+## 📜 Proxy Link List
+- [yourworstnightmare1/proxy-list](https://raw.githubusercontent.com/yourworstnightmare1/proxy-list/refs/heads/main/list.md)
+- [CidCaribou/Games-4.0](https://github.com/CidCaribou/Games-4.0)
 
 ---
 
@@ -377,6 +385,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 
 8. **Don't tie your school life to your personal/social life** — for example, don't log into your personal social media accounts on the unblocked device.
 
+9. **Find more links your school has made on Google Cloud Search** - they are probably less likely to be blocked if its in the organzation
 ---
 
 ## 📚 Additional Resources
