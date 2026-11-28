@@ -8,7 +8,7 @@
 > **📌 NOTE:** If any links are down, use [archive.org](https://archive.org) to find cached versions.
 
 ---
-
+-- idk https://github.com/yourworstnightmare1/ReBlock try to unblock apps?
 ## ⚠️ WARNING
 
 **YOU CAN AND MAY GET SUSPENDED, EXPELLED, FINED, OR INTO LEGAL TROUBLE.**
